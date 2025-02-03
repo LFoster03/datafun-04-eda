@@ -55,3 +55,18 @@ plt.show()'''
 # Then run all. 
 # Then commit changes to git. 
 
+# Worked on foster-eda
+Followed the instructions on the EDA.md
+Created a notebook titled foster-eda
+Created a Markdown header with name, purpose and date
+Created multiple python cells
+    Import cell
+    Iris data loaded
+    Check dataset
+    Statistics
+    Histograms for numerical columns
+    Display count and use loops to the value counts
+    Feature Engineering
+    Visualizations
+    Run
+    Add Markdowns with my observations
